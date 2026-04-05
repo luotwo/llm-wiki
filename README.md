@@ -5,7 +5,8 @@
 LLM Wiki 是一种用 LLM 构建个人知识库的方法论。与传统 RAG（每次查询从头检索）不同，LLM 会**持续构建并维护一个结构化的 Markdown Wiki**，知识随每次导入和查询不断积累，形成复利效应。
 
 > 类比：Obsidian 是 IDE，LLM 是程序员，Wiki 是代码库。
-
+<img width="540" height="369" alt="image" src="https://github.com/user-attachments/assets/62e7f1f1-c167-4186-ac4f-0e5a596bacb3" />
+<img width="673" height="959" alt="image" src="https://github.com/user-attachments/assets/e940afda-fe57-4e2d-8734-b2b6ca1baa87" />
 ---
 
 ## 安装 Skill
@@ -251,3 +252,9 @@ Claude 会调用飞书 API 创建文档并组织为知识库树状结构。
 **人类的工作**：策划资料来源、引导分析方向、提出好问题、思考意义。
 
 **LLM 的工作**：总结、交叉引用、归档、记账——其余一切。
+
+- 如果需要了解，共创，学习相关亚马逊运营Skill，请添加我们公众号和相关联系方式，进行分享相关亚马逊相关运营Skill源文件
+![9f453825a605ac5a92149be126636dc4](https://github.com/user-attachments/assets/9680fd49-0f0f-4642-8601-462ca28f1c77)
+![8acbe748b4a2e09b088c6e2b5cdfa85e](https://github.com/user-attachments/assets/86f00f61-cac6-4da1-9b4d-e78f75aecbc8)
+---<img width="844" height="376" alt="image" src="https://github.com/user-attachments/assets/0c809a29-8dad-4fd0-b5ce-d439e250a60a" />
+
