@@ -3,3 +3,28 @@
 node_modules/
 __pycache__/
 *.pyc
+
+# ===== 铁律：以下目录包含知识库数据，禁止提交到 GitHub =====
+raw/
+wiki/
+amz/
+_archive/
+data/
+logs/
+models/
+raw/assets/
+config/
+
+# ===== 零散数据文件 =====
+*.zip
+*.html
+*.png
+*.jpg
+*.json
+*.txt
+*.pdf
+!package.json
+!package-lock.json
+knowledge-star-data.js
+knowledge-star-map.html
+knowledge-graph.html
